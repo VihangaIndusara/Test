@@ -1,5 +1,5 @@
 {
-  "Version": "1.4",
+  "Version": 1.4,
   "Servers": [
     {
       "Name": "Test Server 1",
@@ -13,7 +13,7 @@
       "Username": "xmxnc",
       "Password": "cjjc",
       "Type": 1
-    }
+    },
     {
       "Name": "Test Server 2",
       "subName": "Test 2",

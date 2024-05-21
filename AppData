@@ -1,33 +1,6 @@
 {
   "Version": 1.4,
-  "Servers": [
-    {
-      "Name": "Test Server 1",
-      "subName": "Test1",
-      "Flag": "LK",
-      "ServerIPHost": "1.1.1.1",
-      "ServerCloudFrontHost": "",
-      "ServerHTTPHost": "",
-      "OpenVPNTCPPort": "1194",
-      "OpenVPNSSLPort": "443",
-      "Username": "xmxnc",
-      "Password": "cjjc",
-      "Type": 1
-    },
-    {
-      "Name": "Test Server 2",
-      "subName": "Test 2",
-      "Flag": "SG",
-      "ServerIPHost": "1.1.1.1",
-      "ServerCloudFrontHost": "",
-      "ServerHTTPHost": "",
-      "OpenVPNTCPPort": "1194",
-      "OpenVPNSSLPort": "443",
-      "Username": "xmxnc",
-      "Password": "cjjc",
-      "Type": 1
-    }
-  ],
+  "Servers": [],
   "Payloads": [],
   "Notes": ""
 }

@@ -261,5 +261,25 @@
       "Password": "password20",
       "Type": 1
     }
-  ]
+  ],
+  "Tweaks": [
+    {
+      "Name": "Instagram Payload",
+      "subName": "Test Payload",
+      "Logo": "SG",
+      "Mode": 1,
+      "Protocol": 0,
+      "TunnelType": 3,
+      "FrontQuery": "",
+      "BackQuery": "",
+      "ProxySettings": {
+        "Squid": "",
+        "Port": ""
+      },
+      "CustomSSLPort": "",
+      "SNIHost": "m.instagram.com",
+      "Payload": ""
+    }
+  ],
+  "Notes": ""
 }

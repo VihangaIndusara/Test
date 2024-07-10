@@ -1,35 +1,1787 @@
 {
-  "Version": "1.1",
+  "Version": "1.4",
   "Servers": [
     {
-      "Name": "Test Server",
-      "subName": "By Vihanga",
-      "Flag": "PK",
-      "ServerIPHost": "sheriking.greentechpro.xyz",
-      "ServerCloudFrontHost": "sheriking.greentechpro.xyz",
-      "ServerHTTPHost": "sheriking.greentechpro.xyz",
+      "Name": "🔑 CLOUDFRONT SERVER 1️⃣✅",
+      "Flag": "PK.png",
+      "ServerIPHost": "8k8Oe36TutAePcr4aYCtJNYck5uail9I7EI+31VyX4vBopqJ",
+      "ServerCloudFrontHost": "8k8Oe36TutAePcr4aYCtJNYck5uail9I7EI+31VyX4vBopqJ",
+      "ServerHTTPHost": "8k8Oe36TutAePcr4aYCtJNYck5uail9I7EI+31VyX4vBopqJ",
       "OpenVPNTCPPort": "1194",
       "OpenVPNSSLPort": "443",
-      "Username": "devtest2",
-      "Password": "devtest2",
+      "Username": "8XT+CV7fmerGZC+oBFPycg==",
+      "Password": "Cox6ZE7LLdYTekSjgpGQog==",
       "Certificate": "",
-      "Protocol": 1
+      "Protocol": 0
+    },
+    {
+      "Name": "🔑 CLOUDFRONT SERVER 2️⃣✅",
+      "Flag": "PK.png",
+      "ServerIPHost": "8k8Oe36TutAePcr4aYCtJNYck5uail9I7EI+31VyX4vBopqJ",
+      "ServerCloudFrontHost": "8k8Oe36TutAePcr4aYCtJNYck5uail9I7EI+31VyX4vBopqJ",
+      "ServerHTTPHost": "8k8Oe36TutAePcr4aYCtJNYck5uail9I7EI+31VyX4vBopqJ",
+      "OpenVPNTCPPort": "1194",
+      "OpenVPNSSLPort": "443",
+      "Username": "8XT+CV7fmerGZC+oBFPycg==",
+      "Password": "Cox6ZE7LLdYTekSjgpGQog==",
+      "Certificate": "",
+      "Protocol": 0
+    },
+    {
+      "Name": "🇸🇦 || MOBILY 60 RIYEL 1️⃣ ",
+      "Flag": "SA.png",
+      "Protocol": 2,
+      "Config": "ziA8rlm2FJBtc3FEh5US01uruwt6H\/OWNzYy1mEEFcFpZUvO287UkqvKPnc1b0zXgMsfM+lzCD8M0r\/tLWxxYlBjSWZkynr1nP5p0E\/XZELzhzMQxcnaqwBIBIUWgvGf\/kf22iMDeDMEfvz\/SR+FO8bK+nI7vGKNeEjxk5ekShmQZ7agu1BPZgli9\/9oAECq\/SaYe\/\/jSUa1x1N8snOeNDAKAp8UoJLBAB9LEpHW7GejQMzgpBX\/ZbWB+nE="
+    },
+    {
+      "Name": "🇸🇦 || MOBILY 60 RIYEL 2️⃣ ",
+      "Flag": "SA.png",
+      "Protocol": 2,
+      "Config": "1JFlMUv3LiT48SEgVcMo1SCkqmC3Md+L+j71CmDs3G2SXks+2VurS2jQZ7epKzkxogdO3LiUsEKoDcMUBRU+cPZwL07XKaTpXh9hwAXV60DIv\/aKn8M5JdXcpuF\/ipqp8IWesDDHD7B6ObT1Gvexwe8qXwYH2qgQfpi1o8V33UWz0ZOsaIFKsTCwNSUaEEH8mkK4b5BX80mj+wf8bXKCd7qGJef191eJg9LvCoR6+\/EpRJosLrpucF\/xFDKVuSnckHsOcG2z\/Qr+FKBgFT5geXzB4AJdcBwu61RRDfXvVSJA9sGK"
+    },
+    {
+      "Name": "🇸🇦 || MOBILY 60 RIYEL 3️⃣",
+      "Flag": "SA.png",
+      "Protocol": 2,
+      "Config": "H5x5+LpXatIQ9QUH\/gLPLJz9uSzt4MPY6J1\/uox+B5T9Uxys5Pa4ROrDw1AB0XGw+D5xhtddGEUNoZX7DCm0kNKwVAB3OesH48iOhxJCnWajeKesM9+MoO5FDvuXAHGRW0X2+1Zwr+cJ4M52UW53UzKVnsfvCQHYoFWOs7Is9u9WhOo23OiaZuvh\/lTfGhBTmSoMr6Tb+UZqrwjOCtF12QJImu5ypnPXBsOf206JqTGClcWyAU2ZyA=="
+    },
+    {
+      "Name": "🇸🇦 || MOBILY 60 RIYEL 4️⃣",
+      "Flag": "SA.png",
+      "Protocol": 2,
+      "Config": "TgVyI5nbeqBRIRJOM3ZZYKIkHsLXYR3seZFkDctv4AWZGbcbn7Px1GzClhd3QKNQBXJHwFkfK1tYvtc229H+7sIqmLNHjtKaVH3RV\/HmcXOGI3TlofmP9VyB9fOqtfxkV24g64F0HTy4pOk4JwV4ovVM2OwvqHMTVK0Bdhdfq8XdcelweUraq1CRMCxr\/bt8iIJr4jv9p16+VpaEERhi0SWYaICBY843rO7H7uQhWhO62yL0iwfbaiLDchsZ1iZq"
+    },
+    {
+      "Name": "🇸🇦 || MOBILY 60 RIYEL 5️⃣",
+      "Flag": "SA.png",
+      "Protocol": 2,
+      "Config": "DHfTyNz3ur4YMd7rr1Vre\/k\/2mQKFFrbK\/ND+gmevlNFr+3dJTNSHg2RqWy6eB52pMGjqa7wHQ4Pt\/+DZjoY+fDX\/bPT62pUcSBYcVP5nl55X63jDLtDTPicg4nRRDJzG3MR1+T1diVprrjpnEYmISwbBfE2cfqX1M3C8I6nUXqfh0aL2X6F92T43+4ToQZjyrAHqrpZP8jkYwbCFl1O7ZAw2A\/21XIkHhD8l6Y9+u0vr2RLtdtV6skh+9Yt35rx"
+    },
+    {
+      "Name": "🇸🇦 || MOBILY 60 RIYEL 6️⃣",
+      "Flag": "SA.png",
+      "Protocol": 2,
+      "Config": "\/KwGJVWMTb0neOqtHj8DvdScAau8aVj0AAPd3T+9oWHTy+PHsd5HAqz+BLgJU+ntX4j+QcifEkNwo1KisQvGWakLw2F7cjLZ2mj+ZW9fQmdMro0KR04WoMlz9u+\/OBhxMFerLESNL68m8vg7VOiEd\/xQ+s3i7Y1ut70SwaFPGDf9C+oSsykHlv3NlsNuvFchEe8O1w8dM3ZZQnVc5dZNaQvEKJ1xKAt+35gh34l\/b0r+ejoyuZrujrVQ3zB2dy4j"
+    },
+    {
+      "Name": "🇸🇦 || MOBILY 60 RIYEL 7️⃣",
+      "Flag": "SA.png",
+      "Protocol": 2,
+      "Config": "JTXFiadYsKnm21cHmbgHYGbGO2DmbFNIExZeq3jtgd2iIV4xOSdB+NBIXSnfmzTW1bcd9SU5KU1QWHpC2+vbxFWSAm7twdhGk5K+Hb9bcvxC0Ep8nycmyCWBx+erbyKY572mRgSWON4jft763WLbRntENBoL1LMCOQOemuC99+QbJJAptXfn1zf7xMsohpIOw2qhHCpXWdoyN9CYgbfPFoIp9d7YF9WaLv6yXknFrSxbNb8qHhoHLB9dv5Dai5Iq7diXMw=="
+    },
+    {
+      "Name": "🇸🇦 || MOBILY 60 RIYEL 8️⃣",
+      "Flag": "SA.png",
+      "Protocol": 2,
+      "Config": "bmoFXHCepL7O36HOtH8\/kc7AidPK1Q7u0FCKwosIOujcX0h8SmNM9r11RNlbQmuDEzgPPYAS65nJo7XRk1bgths0DA71CoN24IS+1UApfNV9dPPSbtlHORL2PtFwGF9wZ021Nyvw\/utY6Qkb8RwRZD7gGvJZORa4tRZux82xrd0xim7yZrlHJwdL9AfFnwwh3+ShbzUXd\/ZDOJy+7qfRHoNH1Z8nRmHQHrKLqN2MkLnoO7V+\/uiaBtS5Om0="
+    },
+    {
+      "Name": "🇸🇦 || MOBILY 60 RIYEL 9️⃣",
+      "Flag": "SA.png",
+      "Protocol": 2,
+      "Config": "99mNxa5aTb8Hf39txuAgx0YTVFEPc23DHiXjNgJ0gCIJwlssGcO9FUvzM1Y\/+tsZ5oMi\/9+dlWZ10MiN0fRWwijcq9BDCAzrKPLRqbepEy64T0v8wgbJTh5WcFz91JB1IeTMttcnpAHRGKXfuCUCCMqZNxPmbVzGY8YNFWwRdGwUEo+Fh6sBV3ng2BY0cchfPqP\/5h2rzLrdG9a4KCP4MCQXMKXYskqMYKrTLenNlTx9wwIYANbajvyNfBE="
+    },
+    {
+      "Name": "🇸🇦 || MOBILY 60 RIYEL 🔟",
+      "Flag": "SA.png",
+      "Protocol": 2,
+      "Config": "ATDWDhCRH4I3n8xLnFI7ozGPyiW55z3RRm5Zw\/pSk0K1zw+2X+iWxZrOipA5xf65iX4B4vqyru4Mecyl9jYHFhYw1KfmgvpyaQNVdNL\/LNaZ9fjZgwr8Nhj2CdFruN4bkWHs3QzzTXC7lh4GwnBwQAJ1d2DEVOb69H3C8Wluiu6SYBHDF35ip4RqbVt8RmTyhiXsZq6GRRWXl5jFFYgkveD8nY+fv8u04U4xWGDf2J0Suo3FMktFlxkzyTs="
+    },
+    {
+      "Name": "🔰 PREMIUM UDP SERVER 1️⃣",
+      "Flag": "UG.png",
+      "Protocol": 1,
+      "Config": "2Fb8SpWfaCuy7T9eQSM8RsFm0bbP5nluzTKfVwAZOEbqEBIP2FB0tlvIPBXIcRkgZeEBEoDzurP\/3P529P9knt8iBnZWuPxw7q\/gMJt7OaUqsWnWGkPZnC8aMGUNTu4QD1qr9X0WbAggciLrwO3cGEK\/yTnQ6EvQ3pYfNVR\/Wo54CjCY0E5w6kW5vqVlyaYJWEdxyUKFin2osvBkuh\/LZYuNWN3PKr+Euq+1ZTBskRXJ8LoKEOO18JmJ63EkMVncKnEtv7N7dlhsh3JzRCkEMamm8MmEtdsiSK4Y8abkOAuWlR7mdY0ssKJdhGwS7\/JBAvxPzqxrBxu2\/R2+Ey4o1fAJCXx4xwMtc5MbCNkz\/uOUz8RiV7T3hRqlKE\/1OS0T7cGYd+UvUBwozyluIVb0VclEaA5pf5oi2Acp\/Xq8LV\/FZ1PLaPPxYZS3D\/8fPkJuPzr6PrvXWIxLgVOd2cW2jTb1PeoaitJ1FlD52A=="
+    },
+    {
+      "Name": "🔰 PREMIUM UDP SERVER 2️⃣",
+      "Flag": "UG.png",
+      "Protocol": 1,
+      "Config": "2Fb8SpWfaCuy7T9eQSM8RsFm0bbP5nluzTKfVwAZOEbqEBIP2FB0tlvIPBXIcRkgZeEBEoDzurP\/3P529P9knt8iBnZWuPxw7q\/gMJt7OaUqsWnWGkPZnC8aMGUNTu4QD1qr9X0WbAggciLrwO3cGEK\/yTnQ6EvQ3pYfNVR\/Wo54CjCY0E5w6kW5vqVlyaYJWEdxyUKFin2osvBkuh\/LZYuNWN3PKr+Euq+1ZTBskRXJ8LoKEOO18JmJ63EkMVncKnEtv7N7dlhsh3JzRCkEMamm8MmEtdsiSK4Y8abkOAuWlR7mdY0ssKJdhGwS7\/JBAvxPzqxrBxu2\/R2+Ey4o1fAJCXx4xwMtc5MbCNkz\/uOUz8RiV7T3hRqlKE\/1OS0T7cGYd+UvUBwozyluIVb0VclEaA5pf5oi2Acp\/Xq8LV\/FZ1PLaPPxYZS3D\/8fPkJuPzr6PrvXWIxLgVOd2cW2jTb1PeoaitJ1FlD52A=="
+    },
+    {
+      "Name": "🔰 PREMIUM UDP SERVER 3️⃣",
+      "Flag": "GH.png",
+      "Protocol": 1,
+      "Config": "2Fb8SpWfaCuy7T9eQSM8RsFm0bbP5nluzTKfVwAZOEbqEBIP2FB0tlvIPBXIcRkgZeEBEoDzurP\/3P529P9knt8iBnZWuPxw7q\/gMJt7OaUqsWnWGkPZnC8aMGUNTu4QD1qr9X0WbAggciLrwO3cGEK\/yTnQ6EvQ3pYfNVR\/Wo54CjCY0E5w6kW5vqVlyaYJWEdxyUKFin2osvBkuh\/LZYuNWN3PKr+Euq+1ZTBskRXJ8LoKEOO18JmJ63EkMVncKnEtv7N7dlhsh3JzRCkEMamm8MmEtdsiSK4Y8abkOAuWlR7mdY0ssKJdhGwS7\/JBAvxPzqxrBxu2\/R2+Ey4o1fAJCXx4xwMtc5MbCNkz\/uOUz8RiV7T3hRqlKE\/1OS0T7cGYd+UvUBwozyluIVb0VclEaA5pf5oi2Acp\/Xq8LV\/FZ1PLaPPxYZS3D\/8fPkJuPzr6PrvXWIxLgVOd2cW2jTb1PeoaitJ1FlD52A=="
+    },
+    {
+      "Name": "🔰 PREMIUM UDP SERVER 4️⃣",
+      "Flag": "GH.png",
+      "Protocol": 1,
+      "Config": "VWTAO5x10YW5I9Hy+oXW1ei1GKhNGUmUiVNVMg7ACfijmSuSwxV5nQtq5VB95oOE2DzTba3P1FTKmqIVYx5i2S3cTwTHqksYiX3KKE3AohsA+9+onGVdO00oown0AamQi9sC92UmfmEmpRI4X9j\/v9kck+Mz3viqbPQ8+qFWQDlHMA19H5z5T5PkfRs8ya+jJQvOVLZK7rvkIeTb0El7b0wBbrDSGz+o\/BHj2ay16c4TGog+EsgqNr+ETJMU\/cYPWAhbcUCiPcY4pbo4KY2OV7ddlLaPv4oQfHB01WvT4LeonqHJunf4uxXRV3Cg9cRUX+UGM\/24AkHK7Fa0BwIZblXnBw2nV2CTvUH9gkOKTu+SuAaj9QIZSU2ClqU6SkPPX5NiQyzRpWTiLciit4\/64tbuyuLCjc+oQd7g7lYppBMPMIdxoBgJYwDLimn3QwhtJ8MW\/7\/zY7JOE0gwk7xMZ8cppiVEcVqndh\/xVQ=="
+    },
+    {
+      "Name": "🔰 PREMIUM UDP SERVER 5️⃣",
+      "Flag": "PK.png",
+      "Protocol": 1,
+      "Config": "VWTAO5x10YW5I9Hy+oXW1ei1GKhNGUmUiVNVMg7ACfijmSuSwxV5nQtq5VB95oOE2DzTba3P1FTKmqIVYx5i2S3cTwTHqksYiX3KKE3AohsA+9+onGVdO00oown0AamQi9sC92UmfmEmpRI4X9j\/v9kck+Mz3viqbPQ8+qFWQDlHMA19H5z5T5PkfRs8ya+jJQvOVLZK7rvkIeTb0El7b0wBbrDSGz+o\/BHj2ay16c4TGog+EsgqNr+ETJMU\/cYPWAhbcUCiPcY4pbo4KY2OV7ddlLaPv4oQfHB01WvT4LeonqHJunf4uxXRV3Cg9cRUX+UGM\/24AkHK7Fa0BwIZblXnBw2nV2CTvUH9gkOKTu+SuAaj9QIZSU2ClqU6SkPPX5NiQyzRpWTiLciit4\/64tbuyuLCjc+oQd7g7lYppBMPMIdxoBgJYwDLimn3QwhtJ8MW\/7\/zY7JOE0gwk7xMZ8cppiVEcVqndh\/xVQ=="
+    },
+    {
+      "Name": "🔰 PREMIUM SERVER 1️⃣",
+      "Flag": "AF.png",
+      "ServerIPHost": "fmyQgiAstfSdL1fwdM10g50254E9uRdSPVWsGOSiwIM6W9m19ymo3iRIJCFOs8rd4AYS6GyWPrJWbqdnJ0\/lOcMddp+RL\/c3ABL7qYTyTkfYy5BuyCI\/mWC+J5Zn1Gt+3VXliIz21drMC\/C+6rOLTONx0cy7lYDo4hOoyW\/PIV93\/2IPkTToxXX5KEpQHRLg",
+      "ServerCloudFrontHost": "fmyQgiAstfSdL1fwdM10g50254E9uRdSPVWsGOSiwIM6W9m19ymo3iRIJCFOs8rd4AYS6GyWPrJWbqdnJ0\/lOcMddp+RL\/c3ABL7qYTyTkfYy5BuyCI\/mWC+J5Zn1Gt+3VXliIz21drMC\/C+6rOLTONx0cy7lYDo4hOoyW\/PIV93\/2IPkTToxXX5KEpQHRLg",
+      "ServerHTTPHost": "fmyQgiAstfSdL1fwdM10g50254E9uRdSPVWsGOSiwIM6W9m19ymo3iRIJCFOs8rd4AYS6GyWPrJWbqdnJ0\/lOcMddp+RL\/c3ABL7qYTyTkfYy5BuyCI\/mWC+J5Zn1Gt+3VXliIz21drMC\/C+6rOLTONx0cy7lYDo4hOoyW\/PIV93\/2IPkTToxXX5KEpQHRLg",
+      "OpenVPNTCPPort": "1194",
+      "OpenVPNSSLPort": "443",
+      "Username": "pCYzzQDzfYGrfStp",
+      "Password": "3\/LHqkGeYWtl2fGbGveHg\/nPbhM=",
+      "Certificate": "",
+      "Protocol": 0
+    },
+    {
+      "Name": "🔰 PREMIUM SERVER 2️⃣",
+      "Flag": "FI.png",
+      "ServerIPHost": "nLi8yjn00RF0RY9nx+Hm+nlgjE0szrFEuGnOLztnBVXGmAOwI20mKm99IMmLJuaA6OP4Mak4qBB\/RqlL8LMxhXC9HnA\/tX509aY+fCXWBj+UikMZMK8E9A6ldhMGpf7uJ0aYgaAJNTwKZ+v3PWfwZ4mh+VWUoGdIlVKJARcz0byhGF9+UJcaw64NkVqH0muM",
+      "ServerCloudFrontHost": "nLi8yjn00RF0RY9nx+Hm+nlgjE0szrFEuGnOLztnBVXGmAOwI20mKm99IMmLJuaA6OP4Mak4qBB\/RqlL8LMxhXC9HnA\/tX509aY+fCXWBj+UikMZMK8E9A6ldhMGpf7uJ0aYgaAJNTwKZ+v3PWfwZ4mh+VWUoGdIlVKJARcz0byhGF9+UJcaw64NkVqH0muM",
+      "ServerHTTPHost": "nLi8yjn00RF0RY9nx+Hm+nlgjE0szrFEuGnOLztnBVXGmAOwI20mKm99IMmLJuaA6OP4Mak4qBB\/RqlL8LMxhXC9HnA\/tX509aY+fCXWBj+UikMZMK8E9A6ldhMGpf7uJ0aYgaAJNTwKZ+v3PWfwZ4mh+VWUoGdIlVKJARcz0byhGF9+UJcaw64NkVqH0muM",
+      "OpenVPNTCPPort": "1194",
+      "OpenVPNSSLPort": "443",
+      "Username": "pCYzzQDzfYGrfStp",
+      "Password": "3\/LHqkGeYWtl2fGbGveHg\/nPbhM=",
+      "Certificate": "",
+      "Protocol": 0
+    },
+    {
+      "Name": "🔰 PREMIUM SERVER 3️⃣",
+      "Flag": "DE.png",
+      "ServerIPHost": "9mfe0MPbWt1eaXleR9GE19Lf\/AKH7EmtWvdTSAbttFASflFPd8qo6lvyJSNA7LYwXMVszsLluiGvxrXiPNrR+FxiNdpaLl1Pmwum3HcRyrfx8+\/Y\/r0bx0+rRPP8wQ2DrkCj5kSqirR3F+Lw76\/dkjqK4f\/v\/gCF8QVnTPRm8o\/x4uNdsoaNZqj8YKiU4yie2b21U1pc3qnHIgVF",
+      "ServerCloudFrontHost": "9mfe0MPbWt1eaXleR9GE19Lf\/AKH7EmtWvdTSAbttFASflFPd8qo6lvyJSNA7LYwXMVszsLluiGvxrXiPNrR+FxiNdpaLl1Pmwum3HcRyrfx8+\/Y\/r0bx0+rRPP8wQ2DrkCj5kSqirR3F+Lw76\/dkjqK4f\/v\/gCF8QVnTPRm8o\/x4uNdsoaNZqj8YKiU4yie2b21U1pc3qnHIgVF",
+      "ServerHTTPHost": "9mfe0MPbWt1eaXleR9GE19Lf\/AKH7EmtWvdTSAbttFASflFPd8qo6lvyJSNA7LYwXMVszsLluiGvxrXiPNrR+FxiNdpaLl1Pmwum3HcRyrfx8+\/Y\/r0bx0+rRPP8wQ2DrkCj5kSqirR3F+Lw76\/dkjqK4f\/v\/gCF8QVnTPRm8o\/x4uNdsoaNZqj8YKiU4yie2b21U1pc3qnHIgVF",
+      "OpenVPNTCPPort": "1194",
+      "OpenVPNSSLPort": "443",
+      "Username": "pCYzzQDzfYGrfStp",
+      "Password": "3\/LHqkGeYWtl2fGbGveHg\/nPbhM=",
+      "Certificate": "",
+      "Protocol": 0
+    },
+    {
+      "Name": "🔰 PREMIUM SERVER 4️⃣",
+      "Flag": "FK.png",
+      "ServerIPHost": "lNW\/UyBiT2VHRMwF3LYhCeDMq8DPkdJc3h9a\/JzvEAaRA23QoO7AgIXnhfYIfh72ZUCffx23hgxmRnFeyz2+WTAZkF\/BVIUYPoZAXWySziETGwwKimRWVRw+xaQDJ80ebU5vvZVFciNTCUQdKeJdVMKNEBZvXovMDE9VUEEhA2IRqbXPjV2++w1a0Dpc6exk81YYNEyOV1LjB6ay",
+      "ServerCloudFrontHost": "lNW\/UyBiT2VHRMwF3LYhCeDMq8DPkdJc3h9a\/JzvEAaRA23QoO7AgIXnhfYIfh72ZUCffx23hgxmRnFeyz2+WTAZkF\/BVIUYPoZAXWySziETGwwKimRWVRw+xaQDJ80ebU5vvZVFciNTCUQdKeJdVMKNEBZvXovMDE9VUEEhA2IRqbXPjV2++w1a0Dpc6exk81YYNEyOV1LjB6ay",
+      "ServerHTTPHost": "lNW\/UyBiT2VHRMwF3LYhCeDMq8DPkdJc3h9a\/JzvEAaRA23QoO7AgIXnhfYIfh72ZUCffx23hgxmRnFeyz2+WTAZkF\/BVIUYPoZAXWySziETGwwKimRWVRw+xaQDJ80ebU5vvZVFciNTCUQdKeJdVMKNEBZvXovMDE9VUEEhA2IRqbXPjV2++w1a0Dpc6exk81YYNEyOV1LjB6ay",
+      "OpenVPNTCPPort": "1194",
+      "OpenVPNSSLPort": "443",
+      "Username": "pCYzzQDzfYGrfStp",
+      "Password": "3\/LHqkGeYWtl2fGbGveHg\/nPbhM=",
+      "Certificate": "",
+      "Protocol": 0
+    },
+    {
+      "Name": "🔰 PREMIUM SERVER 5️⃣",
+      "Flag": "IN.png",
+      "ServerIPHost": "nLi8yjn00RF0RY9nx+Hm+nlgjE0szrFEuGnOLztnBVXGmAOwI20mKm99IMmLJuaA6OP4Mak4qBB\/RqlL8LMxhXC9HnA\/tX509aY+fCXWBj+UikMZMK8E9A6ldhMGpf7uJ0aYgaAJNTwKZ+v3PWfwZ4mh+VWUoGdIlVKJARcz0byhGF9+UJcaw64NkVqH0muM",
+      "ServerCloudFrontHost": "nLi8yjn00RF0RY9nx+Hm+nlgjE0szrFEuGnOLztnBVXGmAOwI20mKm99IMmLJuaA6OP4Mak4qBB\/RqlL8LMxhXC9HnA\/tX509aY+fCXWBj+UikMZMK8E9A6ldhMGpf7uJ0aYgaAJNTwKZ+v3PWfwZ4mh+VWUoGdIlVKJARcz0byhGF9+UJcaw64NkVqH0muM",
+      "ServerHTTPHost": "nLi8yjn00RF0RY9nx+Hm+nlgjE0szrFEuGnOLztnBVXGmAOwI20mKm99IMmLJuaA6OP4Mak4qBB\/RqlL8LMxhXC9HnA\/tX509aY+fCXWBj+UikMZMK8E9A6ldhMGpf7uJ0aYgaAJNTwKZ+v3PWfwZ4mh+VWUoGdIlVKJARcz0byhGF9+UJcaw64NkVqH0muM",
+      "OpenVPNTCPPort": "1194",
+      "OpenVPNSSLPort": "443",
+      "Username": "pCYzzQDzfYGrfStp",
+      "Password": "3\/LHqkGeYWtl2fGbGveHg\/nPbhM=",
+      "Certificate": "",
+      "Protocol": 0
     }
   ],
-  "Tweaks": [
+  "Networks": [
     {
-      "Name": "Instagram (SSL DIRECT)",
-      "SNIHost": "www.instagram.com",
+      "Name": "🎟️ ALL COUNTRY eSIM UNBLOCK 🔥",
+      "SNIHost": "",
+      "Payload": "GET \/ HTTP\/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "📳 eSIM block site unblock ✅",
+      "TunnelType": 2,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "www.justesim.com",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🌐 WiFi DATA--Mobile DATA🔰🔰",
+      "SNIHost": "",
+      "Payload": "CONNECT[host_port][protocol][crlf]Host:0.facebook.com[crlf][crlf]",
+      "Info": "BLOCK 🔑 UNBLOCK ✅",
+      "TunnelType": 2,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": " 🌐 ALL CUNTRY FREE (V2RAY) 🔥",
+      "SNIHost": "",
       "Payload": "",
-      "subName": "Hope this works🙂",
-      "Flag": "SG",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 7,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🌍 ALL CUNTRY FREE (UDP) 🔥",
+      "SNIHost": "",
+      "Payload": "",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 6,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇸🇦 KSA || MOBILY FREE NEW  🆓",
+      "SNIHost": "",
+      "Payload": "",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 7,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇸🇦 || MOBILY 60 RIYEL V2RAY 💥",
+      "SNIHost": "",
+      "Payload": "",
+      "Info": "🔰Send: 1100  Type: 440 (30 Days)🔰",
+      "TunnelType": 7,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": " 🇸🇦 KSA || Jawwy Free 2024 ✅",
+      "SNIHost": "",
+      "Payload": "GET wss:\/\/[host] HTTP\/1.1[crlf]Host: [host] [crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 2,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "104.16.120.28",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": " 🇸🇦 Ksa || Yaqoot Free Unlimited 👑",
+      "SNIHost": "[host]",
+      "Payload": "GET wss:\/\/[host] HTTP\/1.1[crlf]Host: [host] [crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 5,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "104.16.6.253",
+        "Port": "443"
+      }
+    },
+    {
+      "Name": "🇸🇦 Lebara || Hawwakum Package ❤️",
+      "SNIHost": "www.youtube.com",
+      "Payload": "",
+      "Info": "🔰 GOOD WARK ❤️",
       "TunnelType": 3,
       "ServerHostDNS": "cf",
       "ProxySettings": {
         "Squid": "[Default]",
         "Port": ""
       }
+    },
+    {
+      "Name": "🇸🇦 Salam || Mobile Solo Pack ❤️",
+      "SNIHost": "www.youtube.com",
+      "Payload": "",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 3,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇸🇦 Yaqoot || Facebook Package ❤️",
+      "SNIHost": "www.facebook.com",
+      "Payload": "",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 3,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇸🇦 Yaqoot || WhatsApp Package ❤️",
+      "SNIHost": "web.whatsapp.com",
+      "Payload": "",
+      "Info": " 🔰 GOOD WORK ❤️",
+      "TunnelType": 3,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇸🇦 Yaqoot || YouTube Package ❤️",
+      "SNIHost": "www.youtube.com",
+      "Payload": "",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 3,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇸🇦 STC || All Social Package ❤️",
+      "SNIHost": "m.whatsapp.net",
+      "Payload": "",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 3,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇸🇦 STC || All Tiktok Package ❤️",
+      "SNIHost": "www.tiktok.com",
+      "Payload": "",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 3,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇸🇦 Zain 60 SAR Package 🔥",
+      "SNIHost": "support.canvas.snapchat.com",
+      "Payload": "",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 3,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇸🇦 Zain || VB2+VB3 Package 🌀",
+      "SNIHost": "www.line.me",
+      "Payload": "",
+      "Info": " 🔰 GOOD WORK ❤️",
+      "TunnelType": 3,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇸🇦 Zain || RWP Package 🛞",
+      "SNIHost": "www.google.com",
+      "Payload": "",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 3,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇸🇦 KSA || Zain Y25 Package 💕",
+      "SNIHost": "www.youtube.com",
+      "Payload": "",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 3,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇸🇦 KSA || Zain NX2 Package🥇",
+      "SNIHost": "mobile.netflix.com",
+      "Payload": "",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 3,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇸🇦 ZAIN || Netflix NX2 (2024) ✅",
+      "SNIHost": "cache.netflix.com",
+      "Payload": "",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 3,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇸🇦 KSA || Zain FB1 Package ❤️",
+      "SNIHost": "m.facebook.com",
+      "Payload": "",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 3,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇸🇦 Zain || 10 GB Social Package 🦅",
+      "SNIHost": "www.snapchat.com",
+      "Payload": "",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 3,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇸🇦 Zain || All YouTube Package 📺",
+      "SNIHost": "www.youtube.com",
+      "Payload": "",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 3,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇸🇦 Zain || (SN1-SN2-SN3) Package ❤️",
+      "SNIHost": "www.snapchat.com",
+      "Payload": "",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 3,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇸🇦 Zain || (SM3-SN3-60SAR) PKG 🗺️",
+      "SNIHost": "[host]",
+      "Payload": "GET wss:\/\/[host] HTTP\/1.1[crlf]Host: [host] [crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 5,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "support.canvas.snapchat.com",
+        "Port": "443"
+      }
+    },
+    {
+      "Name": "🇸🇦 Zain || All Social Package 💕",
+      "SNIHost": "www.snapchat.com",
+      "Payload": "",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 3,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇸🇦 Zain || All Tiktok Package 📺",
+      "SNIHost": "www.tiktok.com",
+      "Payload": "",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 3,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇸🇦 Zain || Anghami Package🛡️",
+      "SNIHost": "angwplayer.anghami.com",
+      "Payload": "",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 3,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇸🇦 Jawwy || 15 SAR Tiktok 1Week ❤️",
+      "SNIHost": "www.tiktok.com",
+      "Payload": "",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 3,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇸🇦 Jawwy || 20SR Social 30 day ✅",
+      "SNIHost": "m.whatsApp.com",
+      "Payload": "",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 3,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇸🇦 Jawwy || 20 SAR Social 1Week ❤️",
+      "SNIHost": "www.snapchat.com",
+      "Payload": "",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 3,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇸🇦 Jawwy || YouTube Package ❤️",
+      "SNIHost": "www.youtube.com",
+      "Payload": "",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 3,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇸🇦 KSA || Redbull 60SR All Area 🆕",
+      "SNIHost": "m.whatsapp.net",
+      "Payload": "",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 3,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇸🇦 KSA || Redbull Social Package 🔥",
+      "SNIHost": "m.whatsapp.net",
+      "Payload": "",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 3,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇸🇦 KSA || Salam Free Ultra 🆕",
+      "SNIHost": "",
+      "Payload": "TRACE http:\/\/my.salammobile.sa HTTP\/1.1[crlf]Host: http:\/\/my.salammobile.sa[crlf]Connection: close[crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 2,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇸🇦 KSA || LABARA FREE 2024 👑",
+      "SNIHost": "",
+      "Payload": "GET \/ HTTP\/1.1[crlf]Host: [cf] [crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 2,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "18.173.205.4",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇸🇦 KSA || Jawwy Free High NEW 👑",
+      "SNIHost": "",
+      "Payload": "CDN \/ HTTP\/1.3[crlf]Host: [host][crlf]Connection: Keep-Alive,Upgrade,HTTP3-Settings:[host][crlf]Proxy-Connection: Keep-Alive[crlf]Vary: Accept-Encoding[crlf]CF-Cache-Status: DYNAMIC[crlf]CF-RAY: 778ca82e1c4fbe94-CGK[crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "Everyday 500 Mb 🆓",
+      "TunnelType": 2,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "paymentservices.payfort.com",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇸🇦 KSA || Mobily (60) Block Area 📛",
+      "SNIHost": "",
+      "Payload": "GET \/ HTTP\/1.1[crlf]Host: [cf] [crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "🔑 CLOUDFRONT SERVER ✅",
+      "TunnelType": 2,
+      "ServerHostDNS": "ws",
+      "ProxySettings": {
+        "Squid": "static.snapchat.com",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇸🇦 Mobily || 60 SAR PUBG 🆕",
+      "SNIHost": "",
+      "Payload": "GET \/ HTTP\/1.1[crlf]Host: [cf] [crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "🔑 CLOUDFRONT SERVER ✅",
+      "TunnelType": 2,
+      "ServerHostDNS": "ws",
+      "ProxySettings": {
+        "Squid": "13.227.8.42",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇸🇦 KSA || Salam Free Ultra 2024 ❤️",
+      "SNIHost": "",
+      "Payload": "ACL HTTP\/1.1[crlf]GET google.com [protocol][crlf]Host:google.com[cr][lf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 2,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": " 🇸🇦 KSA || ZAIN FREE JIZAN ONLY 🔥",
+      "SNIHost": "",
+      "Payload": "GET \/ HTTP\/1.1[crlf]Host: [cf] [crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "🔑 CLOUDFRONT SERVER ✅",
+      "TunnelType": 2,
+      "ServerHostDNS": "ws",
+      "ProxySettings": {
+        "Squid": "99.86.4.100",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇵🇰 || Pakistan Telenor Snapchat  ✅",
+      "SNIHost": "",
+      "Payload": "GET wss:\/\/[host] HTTP\/1.1[crlf]Host: [host][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 2,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "162.159.128.79",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇵🇰 Ufone || Snapchat Pack 🆕🔰",
+      "SNIHost": "",
+      "Payload": "GET wss:\/\/[host] HTTP\/1.1[crlf]Host: [host] [crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 2,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "162.159.134.86",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": " 🇵🇰 Ufone || Snapchat Pack 🔰",
+      "SNIHost": "",
+      "Payload": "GET wss:\/\/[host] HTTP\/1.1[crlf]Host: [host] [crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 2,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "map.Snapchat.com",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇵🇰 PAKISTAN || UFONE FREE V2RAY 🆕",
+      "SNIHost": "",
+      "Payload": "",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 7,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": " 🇵🇰 PAKISTAN || UFONE FREE FIRE 🔥",
+      "SNIHost": "",
+      "Payload": "GET \/ HTTP\/1.1[crlf]Host: [cf] [crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "🔑 CLOUDFRONT SERVER ✅",
+      "TunnelType": 2,
+      "ServerHostDNS": "ws",
+      "ProxySettings": {
+        "Squid": "www.stepes.com",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇵🇰 UFONE || PUBG Pakege 🔥",
+      "SNIHost": "",
+      "Payload": "GET \/ HTTP\/1.1[crlf]Host: [cf] [crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "🔑 CLOUDFRONT SERVER ✅",
+      "TunnelType": 2,
+      "ServerHostDNS": "ws",
+      "ProxySettings": {
+        "Squid": "lpgen.line-scdn.net",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": " 🇵🇰 Telenor || Snapchat Pack 🔰",
+      "SNIHost": "",
+      "Payload": "GET wss:\/\/[host] HTTP\/1.1[crlf]Host: [host] [crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 2,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "community.snap.com",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇵🇰 TELENOR || 2 GB  pakege 💯",
+      "SNIHost": "",
+      "Payload": "GET wss:\/\/[host] HTTP\/1.1[crlf]Host: [host] [crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 2,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "community.snap.com",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇵🇰 TELENOR || 2 GB CloudFront 🔑 ",
+      "SNIHost": "",
+      "Payload": "GET \/ HTTP\/1.1[crlf]Host: [cf] [crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "🔑 CLOUDFRONT SERVER ✅",
+      "TunnelType": 2,
+      "ServerHostDNS": "ws",
+      "ProxySettings": {
+        "Squid": "my.snapchat.com",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": " 🇵🇰 Pakistan || Telenore Snapchat 🔥",
+      "SNIHost": "",
+      "Payload": "GET wss:\/\/[host] HTTP\/1.1[crlf]Host: [host] [crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 2,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "www.community.snap.com",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": " 🇵🇰 Zong || Whatsapp Package Vip 🔰",
+      "SNIHost": "",
+      "Payload": "GET \/ HTTP\/1.1[crlf]Host: www.whatsapp.com[crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 2,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇵🇰 Zong || WhatsApp Package 📲",
+      "SNIHost": "",
+      "Payload": "GET \/ HTTP\/1.1[crlf]Host: www.whatsapp.net[crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 2,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇵🇰 PAKISTAN || ZONG FACEBOOK 📲",
+      "SNIHost": "",
+      "Payload": "GET \/ HTTP\/1.1[crlf]Host: h.facebook.com[crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 2,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": " 🇵🇰 PAKISTAN || ZONG PUBG PACK 👮",
+      "SNIHost": "",
+      "Payload": "GET \/ HTTP\/1.1[crlf]Host: [cf] [crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "🔑 CLOUDFRONT SERVER ✅",
+      "TunnelType": 2,
+      "ServerHostDNS": "ws",
+      "ProxySettings": {
+        "Squid": "pubg.com",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": " 🇵🇰 JAZZ || SOCIAL 7GB Pakege 🔥",
+      "SNIHost": "",
+      "Payload": "GET \/ HTTP\/1.1[crlf]Host: [cf] [crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "🔑 CLOUDFRONT SERVER ✅",
+      "TunnelType": 2,
+      "ServerHostDNS": "ws",
+      "ProxySettings": {
+        "Squid": "securities-frontend.line-scdn.net",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇵🇰 Pakistan || Jazz Free (Mux)🆕",
+      "SNIHost": "",
+      "Payload": "GET \/ HTTP\/1.1[crlf]Host: [cf] [crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "🔑 CLOUDFRONT SERVER ✅",
+      "TunnelType": 2,
+      "ServerHostDNS": "ws",
+      "ProxySettings": {
+        "Squid": "server-18-64-141-96.mct50.r.cloudfront.net",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": " 🇵🇰 Pakistan || Jazz Free High Speed 💯",
+      "SNIHost": "",
+      "Payload": "GET \/ HTTP\/1.1[crlf]Host: [cf] [crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "🔑 CLOUDFRONT SERVER ✅",
+      "TunnelType": 2,
+      "ServerHostDNS": "ws",
+      "ProxySettings": {
+        "Squid": "18.64.141.96",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇵🇰 Pakistan || jazz  FREE 👑",
+      "SNIHost": "",
+      "Payload": "GET \/ HTTP\/1.1[crlf]Host: [cf] [crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "🔑 CLOUDFRONT SERVER ✅",
+      "TunnelType": 2,
+      "ServerHostDNS": "ws",
+      "ProxySettings": {
+        "Squid": "3.161.104.74",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇺🇬 UGANDA|| AIRTEL FREE UDP 💥",
+      "SNIHost": "",
+      "Payload": "",
+      "Info": "Use ✈On 📴 ✈️ throughout ( UGANDA)",
+      "TunnelType": 6,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇺🇬 UGANDA || MTN Swift Bundle 🔥",
+      "SNIHost": "facebook.com",
+      "Payload": "",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 3,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇺🇬 Uganda || Airtel Free 1GB daily 🔥",
+      "SNIHost": "[host]",
+      "Payload": "GET wss:\/\/[host] HTTP\/1.1[crlf]Host: [host][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 5,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "www.adge.com",
+        "Port": "443"
+      }
+    },
+    {
+      "Name": "🇺🇬 UGANDA || MTN FREE 1️⃣🔥",
+      "SNIHost": "",
+      "Payload": "GET wss:\/\/[host] HTTP\/1.1[crlf]Host: [host][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 2,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "104.17.112.188",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇺🇬 UGANDA || MTN FREE 2️⃣🔥",
+      "SNIHost": "",
+      "Payload": "GET \/ HTTP\/1.1[crlf]Host: [cf] [crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "🔑 CLOUDFRONT SERVER ✅",
+      "TunnelType": 2,
+      "ServerHostDNS": "ws",
+      "ProxySettings": {
+        "Squid": "104.18.21.174",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇺🇬 UGANDA || MTN FREE 3️⃣ 🔥",
+      "SNIHost": "[host]",
+      "Payload": "GET wss:\/\/[host] HTTP\/1.1[crlf]Host: [host][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 5,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "162.159.134.45",
+        "Port": "443"
+      }
+    },
+    {
+      "Name": "🇺🇬 UGANDA || MTN FREE 4️⃣🔥",
+      "SNIHost": "[host]",
+      "Payload": "GET wss:\/\/[host] HTTP\/1.1[crlf]Host: [host][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 5,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "login.tidal.com",
+        "Port": "443"
+      }
+    },
+    {
+      "Name": "🇺🇬 Uganda || Websockt 2024 🔥",
+      "SNIHost": "",
+      "Payload": "GET \/ HTTP\/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 2,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "craftlog.com",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇺🇬 Uganda || Airtel LFH ✅",
+      "SNIHost": "hsv.msyvpn.online",
+      "Payload": "",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 3,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇲🇦 Morocco || Inwi 6 🌟 V2RAY 🔥",
+      "SNIHost": "",
+      "Payload": "",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 7,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇲🇦 Morocco || OFPPT New 🔰",
+      "SNIHost": "",
+      "Payload": "POSTT wss:\/\/microsoft.com\/ HTTP\/1.1[crlf]Host: sb.scorecardresearch.com[crlf][crlf][split][cr]PATCH \/ HTTP\/1.1[crlf]Host: [rlb][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 8,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "104.26.10.60",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇲🇦 MOROCCO || IAM 0DH PAKEGE 🆕",
+      "SNIHost": "",
+      "Payload": "GET wss:\/\/[host] HTTP\/1.1[crlf]Host: [host] [crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 2,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "see.sightcall.com",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇲🇦 MOROCCO || IAM 0DH PAKEGE ❤️",
+      "SNIHost": "",
+      "Payload": "GET \/ HTTP\/1.1[crlf]Host: [cf] [crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "🔑 CLOUDFRONT SERVER ✅",
+      "TunnelType": 2,
+      "ServerHostDNS": "ws",
+      "ProxySettings": {
+        "Squid": "18.161.49.87",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇲🇦 المغرب || IAM inwi pakege 🆕",
+      "SNIHost": "",
+      "Payload": "GET wss:\/\/[host] HTTP\/1.1[crlf]Host: [host] [crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 2,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "yuriyakuza.duckdns.org",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇲🇦 Morocco || Orange Ofppt Free 🔥",
+      "SNIHost": "",
+      "Payload": "GET wss:\/\/[host] HTTP\/1.1[crlf]Host: [host][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]",
+      "Info": "المغرب ofppt مجاني ثابت الآن يعمل بشكل جيد",
+      "TunnelType": 2,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "104.26.12.94",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇲🇦 Morocco || Orange 6 🌟🍊",
+      "SNIHost": "",
+      "Payload": "GET wss:\/\/[host] HTTP\/1.1[crlf]Host: [host] [crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]",
+      "Info": "🙂 جديد قادم الحمد لله عمل جيد 🙂",
+      "TunnelType": 2,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "162.159.134.86",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": " 🇰🇪 Kenya || Airtel Network 1️⃣🔥",
+      "SNIHost": "",
+      "Payload": "GET \/ HTTP\/1.1[crlf]Host: [cf] [crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "🔑 CLOUDFRONT SERVER ✅",
+      "TunnelType": 2,
+      "ServerHostDNS": "ws",
+      "ProxySettings": {
+        "Squid": "52.85.254.109",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": " 🇰🇪 Kenya || Safaricom Capped ✅",
+      "SNIHost": "",
+      "Payload": "GET wss:\/\/[host] HTTP\/1.1[crlf]Host: [host] [crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 2,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "bongobongo.ke",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇰🇪 Kenya || Safaricom Limit Capped 💥",
+      "SNIHost": "",
+      "Payload": "GET wss:\/\/[host] HTTP\/1.1[crlf]Host: [host] [crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 2,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "ncpwd.fuzu.com",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇰🇪 Kenya || Airtel Free Ultra Speed 🚄",
+      "SNIHost": "",
+      "Payload": "GET wss:\/\/[host] HTTP\/1.1[crlf]Host: [host] [crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]",
+      "Info": "🔰 Good WARK ❤️",
+      "TunnelType": 2,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "104.18.8.127",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": " 🇰🇪 Kenya || safaricom unlimited plans 🔥",
+      "SNIHost": "",
+      "Payload": "GET wss:\/\/[host] HTTP\/1.1[crlf]Host: [host] [crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 2,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "104.16.81.57",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": " 🇰🇪 Kenya || Tigo & Safaricom 🆕",
+      "SNIHost": "",
+      "Payload": "GET \/ HTTP\/1.1[crlf]Host: [cf][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "🔑 CLOUDFRONT SERVER ✅",
+      "TunnelType": 2,
+      "ServerHostDNS": "ws",
+      "ProxySettings": {
+        "Squid": "104.18.43.35",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": " 🇰🇪 Kenya || Unknown Limit 🔥",
+      "SNIHost": "",
+      "Payload": "GET wss:\/\/[host] HTTP\/1.1[lf]Host: www.betafriq.co.ke [crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 2,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "www.betafriq.co.ke",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇬🇭 Ghana || TikTok Bundle 🔥",
+      "SNIHost": "www.tiktok.com",
+      "Payload": "",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 3,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇬🇭 Ghana || MTN Mashup 👑",
+      "SNIHost": "v.whatsapp.com",
+      "Payload": "",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 3,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇬🇭 Ghana || Vodafone Free 💯",
+      "SNIHost": "[host]",
+      "Payload": "GET wss:\/\/[host] HTTP\/1.1[crlf]Host: [host][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 5,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "104.26.15.41",
+        "Port": "443"
+      }
+    },
+    {
+      "Name": "🇬🇭 Ghana || MTN Unlimited 🔥",
+      "SNIHost": "moh.gov.gh",
+      "Payload": "",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 3,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇬🇭 Ghana || Viva Free 🔥",
+      "SNIHost": "[host]",
+      "Payload": "GET wss:\/\/[host] HTTP\/1.1[crlf]Host: [host][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 5,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "104.16.84.55",
+        "Port": "443"
+      }
+    },
+    {
+      "Name": "🇬🇭 Ghana || MTN 0.00 KB 🔥",
+      "SNIHost": "[host]",
+      "Payload": "GET wss:\/\/[host] HTTP\/1.1[crlf]Host: [host][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 5,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "104.16.153.71",
+        "Port": "443"
+      }
+    },
+    {
+      "Name": "🇬🇭 Ghana || Digital Combo 🔥",
+      "SNIHost": "[host]",
+      "Payload": "GET wss:\/\/[host] HTTP\/1.1[crlf]Host: [host][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 5,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "104.26.15.41",
+        "Port": "443"
+      }
+    },
+    {
+      "Name": "🇬🇭 MTN || & Vodafone Unlimited 👑",
+      "SNIHost": "[host]",
+      "Payload": "GET wss:\/\/[host] HTTP\/1.1[crlf]Host: [host][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 5,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "104.16.84.55",
+        "Port": "443"
+      }
+    },
+    {
+      "Name": "🇬🇭 GHANA || MTN MASHUP BUNDLE 🔥",
+      "SNIHost": "web.whatsapp.com",
+      "Payload": "",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 3,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": " 🇦🇴 Angola || Africell FREE UDP 🔥",
+      "SNIHost": "",
+      "Payload": "",
+      "Info": "Use ✈On 📴 ✈️ throughout Saudi",
+      "TunnelType": 6,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇦🇴 Angola || Unitel free 2025 🆕",
+      "SNIHost": "",
+      "Payload": "GET wss:\/\/[host] HTTP\/1.1[crlf]Host: [host][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 2,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "enstall.co",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇦🇴 Angola || Movice free working 🆕",
+      "SNIHost": "",
+      "Payload": "GET wss:\/\/[host] HTTP\/1.1[crlf]Host: [host][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 2,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "104.16.251.55",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇮🇳 INDIA Vodafone & Idea Free 🆓 ",
+      "SNIHost": "www.gstatic.com",
+      "Payload": "",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 3,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇴🇲 OMANTEL || FREE V2RAY 🔥",
+      "SNIHost": "",
+      "Payload": "",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 7,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇴🇲 Omantel || Education 5 OMR 💕",
+      "SNIHost": "",
+      "Payload": "GET wss:\/\/[host] HTTP\/1.1[crlf]Host: [host][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 2,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "104.22.64.81",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇹🇯 Tajikistan || Megaphone Free 🔥",
+      "SNIHost": "",
+      "Payload": "GET wss:\/\/[host] HTTP\/1.1[crlf]Host: [host] [crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 2,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "18.165.122.117",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇹🇯 Tajikistan || megafone all Tariffs ✅",
+      "SNIHost": "",
+      "Payload": "GET \/ HTTP\/1.1[crlf]Host: [cf] [crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "🔑 CLOUDFRONT SERVER ✅",
+      "TunnelType": 2,
+      "ServerHostDNS": "ws",
+      "ProxySettings": {
+        "Squid": "108.157.214.45",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇹🇯 Tajikistan || megafone-1 💯",
+      "SNIHost": "",
+      "Payload": "GET \/ HTTP\/1.1[crlf]Host: [cf] [crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "🔑 CLOUDFRONT SERVER ✅",
+      "TunnelType": 2,
+      "ServerHostDNS": "ws",
+      "ProxySettings": {
+        "Squid": "www.un.org",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇪🇹 Ethiopia || EthioTelecom 🔥",
+      "SNIHost": "",
+      "Payload": "CONNECT [host_port] [protocol][crlf]Host: 196.188.120.3:39443[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 2,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇮🇷 IRAN MCI WiFi 💫",
+      "SNIHost": "",
+      "Payload": "POSTT wss:\/\/[host] HTTP\/1.1[crlf]Host: [host][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 2,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "creativecommons.org",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇮🇷 Rightel, Hamrah, Irancell 🔥",
+      "SNIHost": "",
+      "Payload": "GET \/ HTTP\/1.1[crlf]Host: [cf] [crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "🔑 CLOUDFRONT SERVER ✅",
+      "TunnelType": 2,
+      "ServerHostDNS": "ws",
+      "ProxySettings": {
+        "Squid": "origin.api.amxrest.net",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇿🇼 Zimbabwe-Econet 🆕",
+      "SNIHost": "",
+      "Payload": "GET wss:\/\/[host] HTTP\/1.1[lf]Host: 104.26.0.242 [crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 2,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "104.26.0.242",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇿🇼 Zimbabwe ALL AREA 🆓",
+      "SNIHost": "",
+      "Payload": "GET \/ HTTP\/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 2,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "104.26.0.242",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇿🇼 Zimbabwe ||  Netone Free 🔥",
+      "SNIHost": "",
+      "Payload": "",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 6,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🌪️ 🇰🇼 Kuwait | Viva Free 🆓",
+      "SNIHost": "",
+      "Payload": "PUT http:\/\/www.stc.com.kw HTTP\/1.1[crlf]Host: http:\/\/www.stc.com.kw[crlf]Connection: keep-alive[crlf]X-Online-Host: http:\/\/www.stc.com.kw[crlf][crlf]CONNECT [host_port][protocol][crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 2,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🌪️ 🇰🇼 Kuwait | Zain Free 🆓",
+      "SNIHost": "",
+      "Payload": "CONNECT [host_port]@www.kw.zain.com HTTP\/1.1[crlf][crlf]POST http:\/\/www.kw.zain.com\/ [protocol][crlf]Host: www.kw.zain.com[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 2,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇷🇼 Rwanda | Airtel Network New 🔥",
+      "SNIHost": "",
+      "Payload": "GET wss:\/\/[host] HTTP\/1.1[crlf]Host: [host][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 2,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "104.22.64.81",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇯🇴 Jordan Zain Free (عدنان الشامي)",
+      "SNIHost": "",
+      "Payload": "GET \/ HTTP\/1.1[crlf]Host: h.facebook.com[crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "💢 By: عدنان الشامي 💢",
+      "TunnelType": 2,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "h.facebook.com",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇵🇸 Palestine | All Network Unlimited 💕",
+      "SNIHost": "",
+      "Payload": "GET wss:\/\/[host] HTTP\/1.1[crlf]Host: [host][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 2,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "direct.asda.com",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇦🇫 AN | Afghanistan roshan ✅",
+      "SNIHost": "",
+      "Payload": "POST http:\/\/www.roshan.af\/ HTTP\/1.1\\\\nHost: www.roshan.af\\\\nX-Online-Host: www.roshan.af\\\\nX-Forward-Host: www.roshan.af\\\\nConnection: Keep-Alive\\\\nUser-Agent: [ua]\\\\n\\\\nCONNECT [host_port] [protocol]\\\\n\\\\n",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 2,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇿🇲 Zambia || Zamtel Unlimited ✅",
+      "SNIHost": "apps.zamtel.co.zm\/balance\/redirect.php",
+      "Payload": "",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 3,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇿🇲 Zambia || MTN 1GB 🔑",
+      "SNIHost": "",
+      "Payload": "POSTT wss:\/\/microsoft.com\/ HTTP\/1.1[crlf]Host: sb.scorecardresearch.com[crlf][crlf][split][cr]PATCH \/ HTTP\/1.1[crlf]Host: [rlb][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 2,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "cressy.co.za",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇿🇲 Zambia || MTN Social Bundle ✅",
+      "SNIHost": "mobile.twitter.com",
+      "Payload": "",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 3,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇹🇲 Turkmenistn || New 2024 🔥",
+      "SNIHost": "",
+      "Payload": "POSTT http:\/\/ope.com\/ HTTP\/1.1[crlf]Host: github.com[crlf]User-Agent: [ua][crlf][crlf][split][cr]PATCH \/ HTTP\/1.1[crlf]Host: [rlb][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 8,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "guru99.com;ccn.com",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇹🇲 Turkmenistan || GTS 01 🔥",
+      "SNIHost": "",
+      "Payload": "POSTT wss:\/\/hu2izlg1wntuve29oo5fqknlb.js.wpenginepowered.com\/ HTTP\/1.1[crlf]Host: cdn.appsflyer.com[crlf][crlf][split][cr]PATCH \/ HTTP\/1.1[crlf]Host: [rlb][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 8,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "104.18.174.21",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇹🇲 Turkmenistan || GTS 02 🔥",
+      "SNIHost": "",
+      "Payload": "POSTT wss:\/\/hu2izlg1wntuve29oo5fqknlb.js.wpenginepowered.com\/ HTTP\/1.1[crlf]Host: cdn.appsflyer.com[crlf][crlf][split][cr]PATCH \/ HTTP\/1.1[crlf]Host: [rlb][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 8,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "104.17.239.159",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇹🇲 Turkmenistan || GTS 03 🔥",
+      "SNIHost": "",
+      "Payload": "POSTT wss:\/\/hu2izlg1wntuve29oo5fqknlb.js.wpenginepowered.com\/ HTTP\/1.1[crlf]Host: cdn.appsflyer.com[crlf][crlf][split][cr]PATCH \/ HTTP\/1.1[crlf]Host: [rlb][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 8,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "104.21.40.127",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇹🇲 Turkmenistan || GTS 04 🔥",
+      "SNIHost": "",
+      "Payload": "POSTT wss:\/\/hu2izlg1wntuve29oo5fqknlb.js.wpenginepowered.com\/ HTTP\/1.1[crlf]Host: cdn.appsflyer.com[crlf][crlf][split][cr]PATCH \/ HTTP\/1.1[crlf]Host: [rlb][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 8,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "104.18.175.21",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇹🇲 Turkmenistan || GTS 05 🔥",
+      "SNIHost": "",
+      "Payload": "POSTT wss:\/\/hu2izlg1wntuve29oo5fqknlb.js.wpenginepowered.com\/ HTTP\/1.1[crlf]Host: cdn.appsflyer.com[crlf][crlf][split][cr]PATCH \/ HTTP\/1.1[crlf]Host: [rlb][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 8,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "172.66.40.249",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇹🇲 Turkmenistan || GTS 06 🔥",
+      "SNIHost": "",
+      "Payload": "POSTT wss:\/\/hu2izlg1wntuve29oo5fqknlb.js.wpenginepowered.com\/ HTTP\/1.1[crlf]Host: cdn.appsflyer.com[crlf][crlf][split][cr]PATCH \/ HTTP\/1.1[crlf]Host: [rlb][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 2,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "104.17.124.55",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇹🇿 Tanzania || zantel-1 💥",
+      "SNIHost": "",
+      "Payload": "HTTP\/1.0 [lf]Host: music.yandex.com[crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 2,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇹🇿 Tanzania || TTCL NEW 🔥🔥",
+      "SNIHost": "[host]",
+      "Payload": "GET wss:\/\/[host] HTTP\/1.1[crlf]Host: [host][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 5,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "www.edx.org",
+        "Port": "443"
+      }
+    },
+    {
+      "Name": "🇹🇿 Tanzania || halotel NEW 💥",
+      "SNIHost": "[host]",
+      "Payload": "GET wss:\/\/[host] HTTP\/1.1[crlf]Host: [host][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 5,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "paquetes.miclaro.com.gt",
+        "Port": "443"
+      }
+    },
+    {
+      "Name": "🇹🇿 Tanzania || TTCEL & HALOEL 💥",
+      "SNIHost": "[host]",
+      "Payload": "GET wss:\/\/[host] HTTP\/1.1[crlf]Host: [host][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 5,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "162.159.128.86",
+        "Port": "443"
+      }
+    },
+    {
+      "Name": "🇹🇿 Tanzania || TTL 24 POR-2 💥",
+      "SNIHost": "Mail.google.com",
+      "Payload": "",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 3,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇹🇿 Tanzania || TTL 24 POR-3 💥",
+      "SNIHost": "",
+      "Payload": "HTTP\/1.0[crlf]Host: http:\/\/UPDATE http:\/\/mail.google.com HTTP\/1.1[crlf]Host: http:\/\/mail.google.com[crlf]Connection: keep-alive[crlf]User-Agent: Dalvik\/2.1.0 (Linux; U; Android 12; SM-G975U Build\/SP1A.210812.016)[crlf]X-Online-Host: mail.google.com[crlf]X-Forward-Host: mail.google.com[crlf][crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 2,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇹🇿 Tanzania || airtel new X 💥",
+      "SNIHost": "[host]",
+      "Payload": "GET wss:\/\/[host] HTTP\/1.1[crlf]Host: [host][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 5,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "104.17.113.188",
+        "Port": "443"
+      }
+    },
+    {
+      "Name": "🇹🇿 AIRTEL PLUS || 300mb DAY 💥",
+      "SNIHost": "[host]",
+      "Payload": "GET wss:\/\/[host] HTTP\/1.1[crlf]Host: [host][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 5,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "airtel.co.tz",
+        "Port": "443"
+      }
+    },
+    {
+      "Name": "🇹🇿 Tanzania || airtel-new-2 💥",
+      "SNIHost": "[host]",
+      "Payload": "GET wss:\/\/[host] HTTP\/1.1[crlf]Host: [host][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 5,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "www.adge.com",
+        "Port": "443"
+      }
+    },
+    {
+      "Name": "🇹🇿 Airtel | halotel | tigo || ttcl | zantel | smile 😊",
+      "SNIHost": "",
+      "Payload": "GET \/ HTTP\/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "🔰 GOOD WARK ❤️",
+      "TunnelType": 2,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "www.edx.org",
+        "Port": "80"
+      }
     }
   ],
-  "Notes": "This is the new update nigga...!"
+  "Username": "",
+  "Password": "",
+  "Notes": ""
 }
